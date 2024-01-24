@@ -1,0 +1,29 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "maju",
+            "fruit": "banana"
+        },
+        {
+            "id": 2,
+            "name": "Luci",
+            "fruit": "maçã"
+        },
+        {
+            "id": 3,
+            "name": "Vivian",
+            "fruit": "uva"
+        },
+        {
+            "id": 4,
+            "name": "Igor",
+            "fruit": "acabaxi"
+        },
+        {
+            "id": 5,
+            "name": "Vinicius",
+            "fruit": "pêssego"
+        }
+    ]
+}
