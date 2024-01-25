@@ -1,6 +1,9 @@
 import { Suspense } from "react";
 import { ColorSelector } from "../components/ColorSelector";
 
+export const dynamic = 'dynamic force';
+// 'automatic' | 'dynamic force' | 'error' | 'static force'
+
 export default function homepage({ searchParams }) {
 
     return (
